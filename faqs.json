@@ -1,0 +1,62 @@
+[
+    {
+        "question": "What are the college working hours?",
+        "answer": "The college working hours are from 9:00 AM to 4:00 PM, Monday to Saturday."
+    },
+    {
+        "question": "What are the library timings?",
+        "answer": "The library is open from 9:00 AM to 5:00 PM, Monday to Saturday."
+    },
+    {
+        "question": "How can I apply for admission?",
+        "answer": "You can apply for admission through the college admission office or the official college website."
+    },
+    {
+        "question": "How can I pay my college fees?",
+        "answer": "You can pay your college fees through the college fee payment portal or by contacting the accounts department."
+    },
+    {
+        "question": "When will the examinations be conducted?",
+        "answer": "Examination schedules are announced by the examination department. Please check the official college notices."
+    },
+    {
+        "question": "What is the minimum attendance requirement?",
+        "answer": "Students should maintain the attendance percentage required by their university regulations. Contact your academic department for confirmation."
+    },
+    {
+        "question": "Does the college provide transportation?",
+        "answer": "Yes, college transportation information and available bus routes can be obtained from the transport department."
+    },
+    {
+        "question": "How can I contact the placement cell?",
+        "answer": "You can contact the college placement cell for information about recruitment drives, internships and placement training."
+    },
+    {
+        "question": "Are internships available for students?",
+        "answer": "Students can explore internship opportunities through the placement cell, faculty recommendations and external internship platforms."
+    },
+    {
+        "question": "What facilities are available in the college?",
+        "answer": "The college may provide facilities such as laboratories, a library, classrooms, sports facilities and computer labs."
+    },
+    {
+        "question": "How can I get my ID card?",
+        "answer": "You can contact the college administration office to request a new student ID card."
+    },
+    {
+        "question": "Is there a canteen in the college?",
+        "answer": "Please contact the college administration to confirm canteen facilities and operating hours."
+    },
+    {
+        "question": "How can I get a bonafide certificate?",
+        "answer": "You can request a bonafide certificate from the college administration office."
+    },
+    {
+        "question": "Where can I find the academic calendar?",
+        "answer": "The academic calendar is generally available through the college website or academic department."
+    },
+    {
+        "question": "Who should I contact for technical support?",
+        "answer": "You can contact the college IT support team or computer science department for technical assistance."
+    }
+]
