@@ -2,6 +2,13 @@
 
 A simple and interactive FAQ chatbot built using Python and Streamlit to help students quickly find answers to common college-related questions.
 
+## 🌐 Live Demo
+
+Try the College Helpdesk FAQ Chatbot here:
+
+**[Campus Connect FAQ Chatbot](https://campus-connect-faq-2026.streamlit.app/)**
+
+
 ## About the Project
 
 The College Helpdesk FAQ Chatbot provides information about college facilities and services, including admissions, fees, library timings, examinations, transportation, placements, and more.
